@@ -34,7 +34,7 @@ header{
 }
 .hero{
     height: 500px;
-    background-image: linear-gradient(rgba(0,0,0, 0.3), rgba(0,0,0, 0.2)), url("minecraft.avif");
+    background-image: linear-gradient(rgba(0,0,0, 0.3), rgba(0,0,0, 0.2)), url("minecraft.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
